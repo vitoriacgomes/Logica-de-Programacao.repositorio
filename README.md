@@ -1,4 +1,5 @@
-# Lógica de Programação.repositório
+# :blue_book: Lógica de Programação.repositório
+Por 
 #  1° Topico - Logica/Compreenção
 ##  O que é lógica? 
 _(coerência e contextualização da programação dos computadores, fazendo a sequencia certa para solução do problema)_
