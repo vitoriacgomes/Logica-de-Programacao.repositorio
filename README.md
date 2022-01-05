@@ -18,4 +18,27 @@ _Temos variaveis: Numéricas, Caracteres, Alfanuméricas ou Lógicas_
 ### O que é uma Expressão Aritmétrica?
 _Expressões que usam tanto operadores como funções aritmétricasque envolvem constantes e variáveis_
 #### Operadores
-( Soma +, Sub. -, Mult. *, Divi. /, Potencialização ^, Porcentagem %. )
+_(Soma +, Sub. -, Mult. *, Divi. /, Potencialização ^, Porcentagem %.)_
+
+#### Expressões Literais
+_Exemplos: Nome= "Vitória Gomes" , Média=(nota1,nota2,nota3,nota4)/4_
+
+#### Operadores Relacionais
+_Expressões compostas por outras expressões ou variaveis. Retornam os valores lógicos (V/F)_
+
+#### Decisões 
+_"O que fazer durante uma condição encontrada durante a execução"_
+
+## 5° Tópico - Linguagens de Programação
+### Definição:
+É uma linguagem escrita que especifica um certo conjunto de instruções usadas para gerar programas. Servem de meio de comunicação em computadores e humanos. 
+Temos as:
+<details>
+  <summary>Compiladas</summary>Linguagem em que o código fonte é executado diretamente pelo sistema ou pelo processador, depois da tradução pela compilação.
+</details>
+
+<details>
+  <summary>Interpretadas</summary>Linguagem que o código fonte é executado primeiro por um programa chamado interpretador, depois pelo sistemas operacional ou processador.
+</details>
+
+## Exemplo de Código:
