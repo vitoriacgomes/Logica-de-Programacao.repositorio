@@ -41,38 +41,6 @@ Temos as:
   <summary>Interpretadas</summary>Linguagem que o código fonte é executado primeiro por um programa chamado interpretador, depois pelo sistemas operacional ou processador.
 </details>
 
-## Exemplo de Código:
+### Exemplo de código:
+![exemplo de código](https://user-images.githubusercontent.com/81329027/148220351-042e7a13-d1ee-4779-8b3b-383f2924d8a6.png)
 
-funcao inicio()
-
-{
-   real nota1,nota2,nota3,nota4,media
-   
-   cadeia aluno
-   
-   escreva("Digite o nome do aluno:")
-   
-   leia(aluno)
-   
-   escreva("Digite a nota 1:")
-   
-   leia(nota1)
-   
-   escreva("Digite a nota 2:")
-   
-   leia(nota2)
-   
-   escreva("Digite a nota 3:")
-   
-   leia(nota3)
-   
-   escreva("Digite a nota 4:")
-   
-   leia(nota4)
-   
-   media = (nota1+nota2+nota3+nota4)/4
-   
-   escreva("O aluno: " + aluno + "obteve a média: " +media)
-   
-   }
-   
